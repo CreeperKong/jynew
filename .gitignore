@@ -4,11 +4,11 @@
 
 /build
 /build_x64
-
+/*.bak
 /.idea
-/Windows
+/Win64
 /iOS
 /Android
 /macOS
-/Windows32
+/Win32
 /Linux
